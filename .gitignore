@@ -1,0 +1,7 @@
+/.idea
+/venv
+/images
+/data.db
+*.docx
+*.png
+__pycache__
